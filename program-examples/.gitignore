@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+=======
+.template
+
+**/*/node_modules
+**/*/package-lock.json
+**/*/Cargo.lock
+
+**/*/.anchor
+**/*/.DS_Store
+**/*/target
+**/*.rs.bk
+**/*/test-ledger
+**/*/yarn.lock
+>>>>>>> 0216acb (create-system-account init)

@@ -27,5 +27,3 @@ pub struct CheckRentExemption<'info> {
     pub user_account: Signer<'info>,
     pub rent: Sysvar<'info, Rent>,
 }
-
-
